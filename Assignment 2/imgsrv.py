@@ -9,4 +9,3 @@ while True:
         service = open("image-service.txt", "w")
         service.write(f"C:\\Users\super\Documents\Dev\CS-361\Assignment 2\images\cat.{num}.jpg")
         service.close()
-
